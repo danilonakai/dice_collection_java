@@ -4,6 +4,15 @@
 
 This college assignment in Java involves creating a simulation of dice rolls using arrays. The project defines two main classes: Die and DiceCollection. The goal is to create a set of dice with varying numbers of sides and simulate rolling them multiple times. The results are stored in a histogram, tracking the frequency of each possible sum.
 
+Through this project, we apply key software development principles, such as encapsulation, modularity, abstraction, and reusability.
+
+- Encapsulation is learned by organizing related data and methods within classes like Die and DiceCollection, ensuring that the details of the dice operations are hidden from external code.
+- Modularity is emphasized by splitting the problem into smaller, manageable components, making the code more readable and easier to maintain. Each class has a distinct responsibility, such as handling individual dice (Die class) or managing a collection of dice (DiceCollection class).
+- Abstraction is practiced by exposing only necessary methods and hiding the internal workings of dice operations, making the system easier to interact with.
+- Reusability is encouraged as the project design allows the core classes to be reused for different scenarios, such as adjusting the number of dice or the number of sides on each die.
+
+By applying these principles, the project provides valuable hands-on experience in writing clean, maintainable, and efficient code.
+
 The project is structured as follows:
 - **Die**: Represents an individual die with a configurable number of sides.
 - **DiceCollection**: A collection of multiple `Die` objects. It allows rolling all dice and calculating various statistics like the sum, maximum, and minimum rolls.
