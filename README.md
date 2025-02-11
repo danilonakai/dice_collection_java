@@ -2,16 +2,15 @@
 
 ## Overview
 
-This college assignment in Java involves creating a simulation of dice rolls using arrays. The project defines two main classes: Die and DiceCollection. The goal is to create a set of dice with varying numbers of sides and simulate rolling them multiple times. The results are stored in a histogram, tracking the frequency of each possible sum.
+This college assignment in Java involves developing a simulation of dice rolls using arrays. The project defines two primary classes: Die and DiceCollection. The objective is to create a set of dice with varying numbers of sides and simulate rolling them multiple times. The results are stored in a histogram, tracking the frequency of each possible sum.
 
-Through this project, we apply key software development principles, such as encapsulation, modularity, abstraction, and reusability.
+The design of the project emphasizes the principles of object-oriented programming, with a focus on creating a clean, modular structure. By encapsulating the relevant properties and behaviors within the Die and DiceCollection classes, the code maintains a clear separation between the internal workings of each component and the external interactions. This encapsulation ensures that only essential methods are exposed to the user, simplifying the interface and improving ease of use.
 
-- Encapsulation is learned by organizing related data and methods within classes like Die and DiceCollection, ensuring that the details of the dice operations are hidden from external code.
-- Modularity is emphasized by splitting the problem into smaller, manageable components, making the code more readable and easier to maintain. Each class has a distinct responsibility, such as handling individual dice (Die class) or managing a collection of dice (DiceCollection class).
-- Abstraction is practiced by exposing only necessary methods and hiding the internal workings of dice operations, making the system easier to interact with.
-- Reusability is encouraged as the project design allows the core classes to be reused for different scenarios, such as adjusting the number of dice or the number of sides on each die.
+The modular design allows for better organization by dividing the problem into smaller, more manageable pieces, which enhances both readability and maintainability. Each class is responsible for a specific aspect of the simulation, such as managing the dice or handling user interactions, which makes the code more extensible and easier to modify without affecting other parts of the system.
 
-By applying these principles, the project provides valuable hands-on experience in writing clean, maintainable, and efficient code.
+Additionally, the project encourages reusability, as the core classes can be applied to different scenarios or extended for further functionality without redundancy. The ability to modify the number of dice, sides, or the number of rolls demonstrates the flexibility of the design.
+
+Through this project, the importance of writing maintainable, scalable, and efficient code is highlighted, offering practical experience in structuring software with principles that support long-term growth and adaptability.
 
 The project is structured as follows:
 - **Die**: Represents an individual die with a configurable number of sides.
