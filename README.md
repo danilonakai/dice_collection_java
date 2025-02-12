@@ -62,5 +62,8 @@ Below is the UML class diagram representing the structure of the project, includ
 ## Screenshots:
 ![image](https://github.com/user-attachments/assets/2741fba1-4a1e-4ce1-9201-71d19dbd8b7f)
 
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 
