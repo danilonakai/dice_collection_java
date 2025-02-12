@@ -59,7 +59,7 @@ Below is the UML class diagram representing the structure of the project, includ
 3. Make sure to use **Java Version 15** (Liberica JDK 15) or higher.
 3. Compile and run `Main.java` using any IDE or the command line.
 
-## Screenshots:
+## Sample Output:
 ![image](https://github.com/user-attachments/assets/2741fba1-4a1e-4ce1-9201-71d19dbd8b7f)
 
 ## License
